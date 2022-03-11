@@ -1,7 +1,7 @@
 .container{
     border: 10px solid teal;
     width: 500px;
-    height: 580px;
+    height: 500px;
     margin: auto;
     text-align: center;
     overflow-y: scroll;
