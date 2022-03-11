@@ -1,0 +1,13 @@
+.container{
+    border: 10px solid teal;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+    overflow-y: scroll;
+}
+
+.titleDiv{
+    margin:auto;
+    text-align: center;
+}
